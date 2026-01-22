@@ -1,0 +1,3 @@
+# Add prohibited words or regex-safe tokens, one per line.
+# Example:
+# badword
